@@ -1,0 +1,25 @@
+name: climdat
+channels:
+- defaults
+- conda-forge
+dependencies:
+- pip
+- sphinx
+- nbsphinx
+# python
+- python=3
+- notebook
+- pip
+##############
+# analytics
+- xarray
+- xclim
+##############
+# plotting
+- matplotlib
+- cartopy
+##############
+# pip install
+- pip:
+  - sphinx_rtd_theme
+  - sphinxcontrib-bibtex
