@@ -130,4 +130,4 @@ dmypy.json
 
 # general
 ./pics/*
-
+./docs/report/*
