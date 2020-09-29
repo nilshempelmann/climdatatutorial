@@ -1,4 +1,4 @@
-.. _climatedatatutorial
+.. _climatedatatutorial:
 
 
 Climate data tutorials
