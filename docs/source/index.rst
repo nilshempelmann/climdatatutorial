@@ -1,17 +1,9 @@
-.. include:: ../../README.rst
+.. include:: ../../README.md
+
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
-   installation
-   configuration
-   dev_guide
-   processes
-   changes
-
-Indices and tables
-==================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   introduction
+   notebooks/index
