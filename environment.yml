@@ -14,6 +14,14 @@ dependencies:
 # analytics
 - xarray
 - xclim
+- dask
+- nc-time-axis
+# ############
+# Data access
+- esgf-pyclient
+- myproxyclient
+- pydap
+
 ##############
 # plotting
 - matplotlib
