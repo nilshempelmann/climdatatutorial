@@ -1,4 +1,4 @@
-name: climdat
+name: climatedata
 channels:
 - defaults
 - conda-forge
@@ -21,7 +21,6 @@ dependencies:
 - esgf-pyclient
 - myproxyclient
 - pydap
-
 ##############
 # plotting
 - matplotlib
