@@ -131,6 +131,6 @@ dmypy.json
 # general
 ./pics/*
 ./docs/report/*
-./presentations/*.odp
-./presentations/*.odp#
+presentations/*.odp#
+presentations/*.odp
 
